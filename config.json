@@ -1,0 +1,5 @@
+{
+    "minBalance": 100.0,
+    "maxBalance": 10000.0,
+    "currency": "USD"
+}
